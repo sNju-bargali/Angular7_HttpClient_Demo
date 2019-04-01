@@ -13,5 +13,6 @@ open in other cmd same path and
 run below commands for serve the project
 
 npm install
+
 ng serve
 
